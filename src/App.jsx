@@ -3,7 +3,7 @@ import { useState } from 'react'
 //estilos
 import './css/App.css'
 //Constantes
-import { WINS, TURNS } from './const'
+import { WINS, TURNS } from './const/const.js'
 //Componentes
 import { Square } from './components/Square.jsx'
 import { Winner } from './components/Winner.jsx'
